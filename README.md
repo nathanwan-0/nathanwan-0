@@ -42,7 +42,7 @@ Agile and Waterfall Methodologies
 ### Stride
 Full-stack task management web application built with Next.js, Express, MongoDB, and TypeScript.  
 Provides an organized interface for tracking tasks and improving workflow efficiency.  
-Repository: https://github.com/nathanwan-0/strideapp  
+Repository: https://github.com/nathanwan-0/stride-app  
 
 ---
 
@@ -50,6 +50,14 @@ Repository: https://github.com/nathanwan-0/strideapp
 Real-time chat application built with React, WebSockets, Redis, and Express.  
 Supports dynamic chat rooms and instant message broadcasting.  
 Repository: https://github.com/nathanwan-0/FleetSocket  
+
+---
+
+### Weather App
+Web application built with Node.js (Express), Vite + React, and Tailwind CSS.  
+Displays current and historical weather data for any location.  
+Allows users to search locations, view forecasts, and download data as JSON or CSV.  
+Repository: https://github.com/nathanwan-0/weather-app
 
 ---
 
@@ -64,14 +72,6 @@ Live App: https://cloudinvoice-1.web.app/
 AI-powered resume analysis web application deployed on Vercel.  
 Analyzes uploaded PDF resumes and generates professional summaries, ATS compatibility scores, strengths, weaknesses, and actionable improvement suggestions.  
 Live App: https://resumalysis.vercel.app/  
-
----
-
-### Weather App
-Web application built with Node.js (Express), Vite + React, and Tailwind CSS.  
-Displays current and historical weather data for any location.  
-Allows users to search locations, view forecasts, and download data as JSON or CSV.  
-Repository: https://github.com/nathanwan-0/weather-app
 
 ---
 
