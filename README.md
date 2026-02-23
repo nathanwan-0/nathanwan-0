@@ -49,7 +49,7 @@ Repository: https://github.com/nathanwan-0/strideapp
 ### FleetSocket
 Real-time chat application built with React, WebSockets, Redis, and Express.  
 Supports dynamic chat rooms and instant message broadcasting.  
-Repository: https://github.com/nathanwan0/FleetSocket  
+Repository: https://github.com/nathanwan-0/FleetSocket  
 
 ---
 
@@ -67,9 +67,11 @@ Live App: https://resumalysis.vercel.app/
 
 ---
 
-### Secure Mail Transfer Project
-Client-server secure email simulation developed in Python.  
-Implements RSA for credential encryption and AES for secure message transmission to demonstrate hybrid cryptographic protocol design.
+### Weather App
+Web application built with Node.js (Express), Vite + React, and Tailwind CSS.  
+Displays current and historical weather data for any location.  
+Allows users to search locations, view forecasts, and download data as JSON or CSV.  
+Repository: https://github.com/nathanwan-0/weather-app
 
 ---
 
