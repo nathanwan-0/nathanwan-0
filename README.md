@@ -1,6 +1,7 @@
 # Nathan Wan
 
 Computer Science Student
+
 Minor in Economics
 
 Portfolio: https://nathanwan-0.github.io/portfolio/  
