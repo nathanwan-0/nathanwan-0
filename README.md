@@ -20,7 +20,7 @@ My work focuses on combining technical precision with practical problem-solving,
 ## Technical Skills
 
 ### Programming Languages
-Python, C, C++, JavaScript, TypeScript
+Python, C, C++, Java, JavaScript, TypeScript
 
 ### Frontend
 React, React Native, Vite, Tailwind CSS, HTML, CSS
