@@ -80,8 +80,3 @@ AWS Knowledge: Security Champion
 AWS Knowledge: Serverless  
 
 ---
-
-## Contact
-
-Email: natckwan11@gmail.com  
-Portfolio: https://nathanwan-0.github.io/portfolio/
