@@ -1,3 +1,6 @@
+<img width="1707" height="282" alt="image" src="https://github.com/user-attachments/assets/78c38edc-0803-43b3-ae78-cd76e2acd770" />
+
+
 # Nathan Wan
 
 Computer Science Student
