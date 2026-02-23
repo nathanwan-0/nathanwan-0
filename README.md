@@ -29,7 +29,7 @@ React, React Native, Vite, Tailwind CSS, HTML, CSS
 Node.js, Express, MongoDB, Redis, WebSockets, Firebase
 
 ### Cloud & Security
-AWS, RSA & AES Encryption, IAM, Serverless Architecture
+AWS, Google Cloud, RSA & AES Encryption, IAM, Serverless Architecture
 
 ### Tools
 Git, Visual Studio Code, Android Studio, PyCharm  
