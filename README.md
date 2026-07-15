@@ -25,7 +25,7 @@
 
 - Computer Science student at **MacEwan University**
 - Building modern full-stack applications with React, Next.js, Node.js, and TypeScript
-- Interested in cloud computing, distributed systems, backend architecture, cybersecurity, and AI
+- Interested in cloud computing, distributed systems, backend architecture, and cybersecurity
 - Experience with AWS, Google Cloud, Firebase, Redis, MongoDB, and serverless architectures
 - Passionate about designing secure, scalable systems and continuously learning new technologies
 
