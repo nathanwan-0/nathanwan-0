@@ -71,134 +71,32 @@
 
 ---
 
-# Featured Projects
-
-## Stride
-
-> A full-stack task management platform focused on organization and productivity.
-
-**Highlights**
-
-- Built a modern productivity platform using Next.js and TypeScript
-- Implemented user authentication and persistent workspaces
-- Developed REST APIs using Express and MongoDB
-- Designed a responsive interface for efficient task management
-
-**Stack**
-
-`Next.js` `TypeScript` `Express` `MongoDB`
-
-**Repository**
-
-🔗 [github.com/nathanwan-0/stride-app](https://github.com/nathanwan-0/stride-app)
-
----
-
-## FleetSocket
-
-> A real-time chat platform built around WebSockets and Redis.
-
-**Highlights**
-
-- Developed real-time messaging with WebSocket communication
-- Implemented Redis-based message handling architecture
-- Supports multiple chat rooms and instant broadcasting
-- Designed for scalable low-latency communication
-
-**Stack**
-
-`React` `Express` `Redis` `WebSockets`
-
-**Repository**
-
-🔗 [github.com/nathanwan-0/FleetSocket](https://github.com/nathanwan-0/FleetSocket)
-
----
-
-## CloudInvoice
-
-> A serverless invoicing and expense management application.
-
-**Highlights**
-
-- Built a cloud-based invoicing platform
-- Supports invoice generation and payment tracking
-- Uses Firebase authentication and cloud services
-- Designed using serverless architecture principles
-
-**Stack**
-
-`React` `Firebase` `Google Cloud`
-
-**Live Demo**
-
-🌐 [cloudinvoice-1.web.app](https://cloudinvoice-1.web.app/)
-
----
-
-## Resumalysis
-
-> AI-powered resume analysis and ATS optimization platform.
-
-**Highlights**
-
-- Analyzes uploaded resumes using AI
-- Generates ATS compatibility scores
-- Provides professional summaries and improvement suggestions
-- Built with modern web deployment practices
-
-**Stack**
-
-`React` `AI` `Vercel`
-
-**Live Demo**
-
-🌐 [resumalysis.vercel.app](https://resumalysis.vercel.app/)
-
----
-
-## Weather App
-
-> Weather dashboard for current conditions and historical weather data.
-
-**Highlights**
-
-- Search locations worldwide
-- Displays current and historical weather information
-- Supports JSON and CSV data exports
-- Responsive React-based interface
-
-**Stack**
-
-`React` `Express` `Tailwind CSS`
-
-**Repository**
-
-🔗 [github.com/nathanwan-0/weather-app](https://github.com/nathanwan-0/weather-app)
-
----
-
-## Certifications
-
-- AWS Cloud Practitioner Essentials
-- AWS Knowledge: Security Champion
-- AWS Knowledge: Serverless
-
----
-
 # GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=nathanwan-0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathanwan-0&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=nathanwan-0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwan-0&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nathanwan-0&theme=github-dark&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nathanwan-0&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
----
-
 <p align="center">
-  <i>Thanks for stopping by!</i>
+  <i>
+    Thanks for stopping by!
+  </i>
 </p>
