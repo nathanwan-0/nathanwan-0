@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Computer Science student at MacEwan University.
+  Software Engineer
   <br>
   Interested in full-stack engineering, cloud infrastructure, distributed systems, and cybersecurity.
   <br>
@@ -23,7 +23,6 @@
 
 ## Highlights
 
-- Computer Science student at **MacEwan University**
 - Building modern full-stack applications with React, Next.js, Node.js, and TypeScript
 - Interested in cloud computing, distributed systems, backend architecture, and cybersecurity
 - Experience with AWS, Google Cloud, Firebase, Redis, MongoDB, and serverless architectures
@@ -76,14 +75,14 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=nathanwan-0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=nathanwan-0&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats"
   />
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwan-0&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathanwan-0&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
